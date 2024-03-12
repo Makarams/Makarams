@@ -1,4 +1,3 @@
-# Makara 🎉
 ## Welcome to my GitHub profile! 👋
 
 <img src="https://c.tenor.com/2uMRFvcpyh4AAAAd/tenor.gif" alt="pixel" width="200" align="left"> 
