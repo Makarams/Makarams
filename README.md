@@ -69,6 +69,10 @@ I'm an experienced software developer with a knack for problem-solving and a pas
 ## GitHub Stats 📊
 
 <div align="center"> 
-<a href="http://www.github.com/Makarams"><img width="51%" src="https://github-readme-stats.vercel.app/api?username=Makarams&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=gruvbox_light" alt="Makarams's GitHub stats" /></a> 
-<a href="http://www.github.com/Makarams"/><img alt="TYP Github Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Makarams&theme=gruvbox_light&hide_border=true" width = "70%"/></a> 
+<a href="http://www.github.com/Makarams"><img width="53%" src="https://github-readme-stats.vercel.app/api?username=Makarams&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=gruvbox_light" alt="Makarams's GitHub stats" /></a> 
+<a href="http://www.github.com/Makarams">
+    <img width="18%" alt="Top Lang" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Makarams&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=gruvbox_light&bg_color=f9efc5"></a>
+<a href="http://www.github.com/Makarams"/><img alt="TYP Github Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Makarams&theme=gruvbox_light&hide_border=true" width = "70%"/></a>
+
+
 </div>
