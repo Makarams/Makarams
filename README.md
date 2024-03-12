@@ -10,7 +10,7 @@
 <img src="https://media1.tenor.com/m/oCHqwcyYFI0AAAAC/lord-of-the-mysteries-lord-of-mysteries.gif" alt="GitHub" style="float: right;" align="right" width="90"/>
 <div align="right" width="50" style="display: flex; flex-direction: column; align-items: right;">
  
-[![Hits](https://hits.sh/github.com/Makarams.svg?label=Visitors&color=0F56E7)](https://hits.sh/github.com/Teshidesu/) 💗
+[![Hits](https://hits.sh/github.com/Makarams.svg?label=Visitors&color=0F56E7)](https://hits.sh/github.com/Makarams/) 💗
 </div>
 
 ## My Current Studies 📚
