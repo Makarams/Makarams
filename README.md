@@ -14,7 +14,7 @@
 </div>
 
 ## My Current Studies 📚
-I am in my third year pursuing a Bachelor of Computer Science at Paragon International University, dedicated to mastering a diverse range of programming languages and technologies. My academic journey has been marked by a commitment to excellence and a deep passion for technology. I am constantly seeking to enhance my skills and understanding, preparing myself to make significant contributions to the tech industry. 💻🎓
+I am in my fouth year pursuing a Bachelor of Computer Science at Paragon International University, dedicated to mastering a diverse range of programming languages and technologies. My academic journey has been marked by a commitment to excellence and a deep passion for technology. I am constantly seeking to enhance my skills and understanding, preparing myself to make significant contributions to the tech industry. 💻🎓
 
 ## About Me 🙋‍♂️
 
