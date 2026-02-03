@@ -4,7 +4,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=monocraft&duration=2200&pause=1000&color=2563EB&center=true&multiline=true&width=720&height=110&lines=Hi%2C+my+name+is+Sammakara+Mak;Project+Management+%C2%B7+Full-Stack+Development+%C2%B7+UX%2FUI+Design;Tech+%2B+Diplomacy+%2B+Youth+Impact)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=monocraft&duration=2200&pause=1000&color=2563EB&center=true&multiline=true&width=720&height=110&lines=Hi%2C+my+name+is+Sammakara+Mak;Project+Management+%C2%B7+Full-Stack+Development+%C2%B7+UX%2FUI+Design;Building+things+that+work+in+the+real+world)](https://git.io/typing-svg)
 
 </div>
 
@@ -16,20 +16,24 @@
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="26"/>
 </div>
 
-Graduated with honors in Computer Science 🎓, building digital systems with real-world impact 💻✨.  
-Based in Cambodia 🇰🇭, working across languages and regions where technology 🌐 meets diplomacy 🤝 and youth empowerment 🚀.  
-Part of the YSEALI Digital Creators network and a NetMission Ambassador ✨.
+I’m Sammakara Mak, a software engineer based in Cambodia 🇰🇭 who enjoys building digital systems and figuring out how technology fits into real communities and institutions.
+
+My background is in Computer Science, and over the past few years I’ve worked across full-stack development, project coordination, and design, often in spaces where tech overlaps with public systems, youth initiatives, and regional collaboration.
+
+I care about making things usable, thoughtful, and sustainable — whether that’s code, platforms, or the way people work together around them.
 
 ---
 
-### What you’ll find here 🧠
+### What shows up in my work 💡
 
-Code and experiments around full-stack web development, API-based systems, and user-centered digital platforms.  
-Projects shaped by community needs, public systems, and real-world constraints — not just demos.
+🌐 Internet governance and digital inclusion  
+🤝 Regional youth diplomacy across ASEAN and partners  
+🧩 Community-driven initiatives aligned with the SDGs  
+💻 Practical software systems for public and social use  
 
 ---
 
-### Tools I often use 🛠️
+### Tools I usually reach for 🛠️
 
 <p align="left">
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36"/>
@@ -47,7 +51,7 @@ Projects shaped by community needs, public systems, and real-world constraints �
 
 ---
 
-### Outside the terminal 🌱
+### Off the keyboard 🌱
 
 Cooking 🍳  
 Reading & writing 📚  
@@ -60,4 +64,4 @@ Video storytelling 🎥
 
 </div>
 
-✨ Curious minds, meaningful systems, steady progress.
+✨ If you are looking for someone who blends technical skills with regional insight and real-world leadership, ready to learn, lead, and deliver impact, let’s build something meaningful.
