@@ -13,12 +13,27 @@
 [![Hits](https://hits.sh/github.com/Makarams.svg?label=Visitors&color=0F56E7)](https://hits.sh/github.com/Makarams/) 💗
 </div>
 
-## My Current Studies 📚
-I am in my fouth year pursuing a Bachelor of Computer Science at Paragon International University, dedicated to mastering a diverse range of programming languages and technologies. My academic journey has been marked by a commitment to excellence and a deep passion for technology. I am constantly seeking to enhance my skills and understanding, preparing myself to make significant contributions to the tech industry. 💻🎓
+## 🚀 About Me
 
-## About Me 🙋‍♂️
+I’m a **Software Engineer** with hands-on experience in **full-stack web development, API platforms, and digital systems** used by real organizations — from telecoms to government-supported initiatives.
 
-I'm an experienced software developer with a knack for problem-solving and a passion for technology. My proficiency spans several programming languages, including C++, Java, Python, JavaScript, HTML, PHP, and C#. Outside the coding, I indulge in hobbies like cooking 🍳, reading & writing 📚, digital illustration 🎨, and videography 🎥. I believe in the power of continuous learning and strive to apply my skills to create impactful and meticulously crafted solutions.
+I enjoy working at the intersection of **technology, digital governance, and user-centric systems**, turning complex workflows into scalable, maintainable solutions.
+
+**Currently focused on:**
+- Full-stack web applications (React / Next.js)
+- Backend systems & APIs (Laravel, Django)
+- Platform integration & API gateways
+- Digital transformation & public-sector tech
+
+---
+
+## 🎓 Education
+
+**Bachelor of Science in Computer Science (Honors)**  
+Paragon International University  
+**2022 – 2025**
+
+---
 
 --------------------
 
