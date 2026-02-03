@@ -1,107 +1,69 @@
-## Welcome to my GitHub profile! 👋
+## Welcome to my GitHub 👋
 
-<img src="https://c.tenor.com/2uMRFvcpyh4AAAAd/tenor.gif" alt="pixel" width="200" align="left"> 
+<img src="https://c.tenor.com/2uMRFvcpyh4AAAAd/tenor.gif" alt="pixel" width="200" align="left"/>
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=monocraft&duration=2000&pause=1000&color=2563EB&center=true&multiline=true&width=700&height=100&lines=Hello%2C+My+name+is+Mak+Sammakara+%F0%9F%92%BB;Software+Engineer+%7C+Full-Stack+Developer;APIs+%7C+Web+Apps+%7C+Digital+Systems)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=monocraft&duration=2200&pause=1000&color=2563EB&center=true&multiline=true&width=720&height=110&lines=Hello%2C+I'm+Mak+Sammakara;Tech%2C+Diplomacy+%26+Youth+Empowerment;Building+digital+solutions+with+regional+impact)](https://git.io/typing-svg)
 
 </div>
 
-<img src="https://media1.tenor.com/m/oCHqwcyYFI0AAAAC/lord-of-the-mysteries-lord-of-mysteries.gif" alt="GitHub" width="90" align="right"/>
+<img src="https://media1.tenor.com/m/oCHqwcyYFI0AAAAC/lord-of-the-mysteries-lord-of-mysteries.gif" alt="anime" width="90" align="right"/>
 
-<div align="right">
+<br clear="left"/>
 
-[![Hits](https://hits.sh/github.com/Makarams.svg?label=Visitors&color=0F56E7)](https://hits.sh/github.com/Makarams/) 💗
-
+<div align="center">
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="26"/>
 </div>
 
----
+### Who I am
 
-## About Me 🙋‍♂️
+I am a Cambodian software engineer and youth leader, graduated with honors in Computer Science, working at the intersection of technology and society.
 
-I’m a **Software Engineer** with hands-on experience in **full-stack development, API platforms, and digital systems** used by real organizations — from telecom infrastructure to public-sector initiatives.
+I am a trilingual Cambodian youth engaged across technical, diplomatic, and civic spaces, focused on designing systems and initiatives that are inclusive, ethical, and impactful.
 
-I enjoy building **scalable, user-focused applications**, working across **frontend, backend, and API integration**, and contributing to projects that sit at the intersection of **technology, governance, and impact**.
+Tech, Diplomacy and Youth Empowerment  
+YSEALI Digital Creator  
+NetMission Ambassador
 
-Outside coding, I’m into cooking 🍳, reading & writing 📚, digital illustration 🎨, and videography 🎥.
+### Focus areas
 
----
+Internet Governance  
+I actively engage in youth-led Internet governance initiatives that promote digital inclusion, platform accountability, and open access. Through national, regional, and global forums, I contribute to shaping conversations around ethical technology and a rights-based digital future.
 
-## Current Focus 🔭
+Regional Diplomacy  
+As a Cambodian youth representative, I participate in multilateral forums and exchange programs that strengthen ASEAN’s engagement with partner countries including the United States, Australia, South Korea, Japan, and Taiwan. My work centers on youth diplomacy, leadership, innovation, and regional collaboration.
 
-- Full-stack web apps (React, Next.js)
-- Backend & APIs (Laravel, Django)
-- API platforms & integration
-- Digital transformation projects
+Community Empowerment  
+Over the past few years, I have led and supported more than 20 initiatives spanning charity campaigns, CSR programs, environmental cleanups, education outreach, and national events. These efforts align closely with the UN Sustainable Development Goals, particularly education, environment, and reduced inequalities.
 
----
+Digital Solutions  
+With a strong foundation in software systems and digital problem-solving, I design and implement practical, sustainable, and user-centered technologies that improve public systems and address community challenges, especially in accessibility, equity, and service delivery.
 
-## Education 🎓
-
-**Bachelor of Science in Computer Science (Honors)**  
-Paragon International University  
-2022 – 2025
-
----
-
-## Tech Stack ⚙️
+### Tools and technologies
 
 <p align="left">
-<a href="https://www.python.org/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36"/></a>
-<a href="https://www.java.com/"><img src="https://www.svgrepo.com/show/184143/java.svg" width="36"/></a>
-<a href="https://learn.microsoft.com/en-us/dotnet/csharp/"><img src="https://upload.wikimedia.org/wikipedia/commons/b/bd/Logo_C_sharp.svg" width="36"/></a>
-<a href="https://cplusplus.com/"><img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" width="36"/></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36"/></a>
-<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36"/></a>
-<a href="https://www.w3.org/TR/CSS/#css"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36"/></a>
-<a href="https://git-scm.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="36"/></a>
-<a href="https://github.com/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="36"/></a>
-<a href="https://code.visualstudio.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="36"/></a>
-<a href="https://tailwindcss.com/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36"/></a>
-<a href="https://sass-lang.com/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg" width="36"/></a>
-<a href="https://getbootstrap.com/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36"/></a>
-<a href="https://nodejs.org/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36"/></a>
-<a href="https://expressjs.com/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored.svg" width="36"/></a>
-<a href="https://nextjs.org/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored.svg" width="36"/></a>
-<a href="https://react.dev/"><img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" width="36"/></a>
-<a href="https://laravel.com/"><img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Laravel.svg" width="36"/></a>
-<a href="https://www.postgresql.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" width="36"/></a>
-<a href="https://www.mongodb.com/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36"/></a>
-<a href="https://www.figma.com/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36"/></a>
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36"/>
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" width="36"/>
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored.svg" width="36"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Laravel.svg" width="36"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" width="36"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" width="36"/>
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="36"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="36"/>
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36"/>
 </p>
 
----
+### Beyond the screen
 
-## Socials 📱
-
-<a href="https://github.com/Makarams"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32"/></a>
-<a href="https://www.linkedin.com/in/sammakara-mak-sm/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32"/></a>
-<a href="https://instagram.com/winter.waves.ig"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32"/></a>
-<a href="https://web.facebook.com/winter.waves.fb/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32"/></a>
-<a href="https://x.com/winter_waves_tw"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32"/></a>
-<a href="https://bsky.app/profile/winterwaves.bsky.social"><img src="https://upload.wikimedia.org/wikipedia/commons/7/7a/Bluesky_Logo.svg" width="32"/></a>
-
----
-
-## Favorite Quote 💬
+Outside of work, I enjoy cooking, reading and writing, digital illustration, videography, and long-form conversations about technology, culture, and society.
 
 <div align="center">
 
 ![](https://ownquotes.com/i/q/14/41/72.png)
-<img src="https://media1.tenor.com/m/oCHqwcyYFI0AAAAC/lord-of-the-mysteries-lord-of-mysteries.gif" width="140"/>
 
 </div>
 
----
-
-## GitHub Stats 📊
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Makarams&show_icons=true&theme=gruvbox_light" width="53%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Makarams&layout=compact&theme=gruvbox_light" width="30%"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Makarams&theme=gruvbox_light&hide_border=true" width="70%"/>
-
-</div>
+✨ If you are looking for someone who blends technical skills with regional insight and real-world leadership, ready to learn, lead, and deliver impact, let’s build something meaningful.
